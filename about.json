@@ -1,0 +1,67 @@
+{
+  "id": "content/about.json",
+  "title": "",
+  "body": {
+    "type": "minimal",
+    "value": [
+      [
+        "div",
+        {
+          "className": [
+            "container",
+            "mx-auto",
+            "py-4"
+          ]
+        },
+        [
+          "div",
+          {
+            "className": [
+              "grid",
+              "grid-cols-3",
+              "gap-4"
+            ]
+          },
+          [
+            "card",
+            {
+              "cardClasses": "shadow-xl p-3 rounded-xl border border-primary-500 bg-red-400 text-csgray-800",
+              "cardHeaderClasses": "text-4xl text-right pt-6"
+            }
+          ],
+          [
+            "card",
+            {
+              "cardClasses": "shadow-xl p-3 rounded-xl border border-primary-500 bg-primary-400 text-csgray-800",
+              "cardHeaderClasses": "text-4xl text-right pt-6"
+            }
+          ],
+          [
+            "card",
+            {
+              "cardClasses": "shadow-xl p-3 rounded-xl border border-primary-500 bg-primary-400 text-csgray-800",
+              "cardHeaderClasses": "text-4xl text-right pt-6"
+            }
+          ]
+        ]
+      ]
+    ],
+    "toc": {
+      "title": "",
+      "searchDepth": 2,
+      "depth": 2,
+      "links": []
+    }
+  },
+  "description": "",
+  "extension": "md",
+  "meta": {},
+  "navigation": true,
+  "path": "/",
+  "seo": {
+    "title": "",
+    "description": ""
+  },
+  "stem": "index",
+  "__hash__": "oUsHq6Jf_tVJyk_IRmmYb90ox8cWkEHr6tIRhGD5VZg"
+}
