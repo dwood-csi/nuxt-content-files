@@ -10,7 +10,7 @@ class: container mx-auto py-4
 
     ::card
     ---
-    cardClasses: shadow-xl p-3 rounded-xl border border-primary-500 bg-orange-400 text-csgray-800
+    cardClasses: shadow-xl p-3 rounded-xl border border-primary-500 bg-blue-400 text-csgray-800
     cardHeaderClasses: text-4xl text-right pt-6
     ---
     
@@ -18,7 +18,7 @@ class: container mx-auto py-4
 
     ::card
     ---
-    cardClasses: shadow-xl p-3 rounded-xl border border-primary-500 bg-green-400 text-csgray-800
+    cardClasses: shadow-xl p-3 rounded-xl border border-primary-500 bg-yellow-400 text-csgray-800
     cardHeaderClasses: text-4xl text-right pt-6
     ---
 
